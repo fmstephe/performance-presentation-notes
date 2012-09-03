@@ -1,0 +1,3 @@
+Can now do 40MM trades in two seconds. Definition of success (sort of). Great stuff.
+
+Radical departure from previous structure. Not a traditional binary heap.

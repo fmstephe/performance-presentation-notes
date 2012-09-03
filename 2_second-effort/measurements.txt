@@ -1,0 +1,11 @@
+2: Moved heap into matching project, made it's interface order specific
+
+Still using channel writebacks
+
+Specific heap has idea of a limit - a collection of identically priced orders
+
+Can run one million trades through without killing PC
+
+can run 20MM trades in ~14 seconds
+
+05d00e0835d37cc46565ce3c8586dc72249374b3

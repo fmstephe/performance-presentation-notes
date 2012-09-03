@@ -1,0 +1,7 @@
+1: First Version - Hashmaps - Channel based writebacks
+Single Order Heap
+Strings in the trade.Order structure
+heap/trade/matcher separated by packages
+interfaces look like a bad impact
+
+192d928dbaf6549004f1d569286304a02d029566

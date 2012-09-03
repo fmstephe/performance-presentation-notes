@@ -1,0 +1,1 @@
+Can do 40MM trades in 2.4 seconds. A very good time. Important to note that the time for naive is much more stable than the no-map implementation.

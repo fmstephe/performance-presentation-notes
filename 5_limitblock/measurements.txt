@@ -1,0 +1,3 @@
+Can now do 40MM trades in 3.7 seconds :( Slower
+
+Failed to profile. Failed to understand, thought I was clever I was not. :)

@@ -1,0 +1,3 @@
+Now able to do 40MM in 3.4 seconds!
+
+Improvement achieved by writing to statically allocated output buffer

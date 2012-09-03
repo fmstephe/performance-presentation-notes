@@ -1,0 +1,3 @@
+Here we attempt to match a trade before we push it. This produces an enormous effect and gets us down to 20MM in 3 seconds.
+
+Important to note there here we can first see clearly the 'completeTrade' problem
